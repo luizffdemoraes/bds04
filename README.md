@@ -16,6 +16,9 @@ acessos são permitidos apenas a usuários ADMIN.
 Caso tenha dúvidas nas regras de autorização do ResourceServerConfig, colocamos uma sugestão em
 linguagem natural na próxima página.
 
+## UML Project
+![UML 1](/images/uml-user-role-to-city-event.png)
+
 Validações de City:
 =================
 <!--ts-->
